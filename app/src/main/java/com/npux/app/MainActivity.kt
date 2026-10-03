@@ -123,7 +123,7 @@ class MainActivity : Activity() {
              NPU inference: NOT TESTED
 
 	    NNAPI ACCELERATORS:
-	     $nnapiDeviceText
+	    $nnapiDeviceText
         """.trimIndent()
         
         text.textSize = 18f
